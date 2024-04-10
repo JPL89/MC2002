@@ -90,11 +90,11 @@ void MC2002_Clear(void)
 
 void MC2002_Init(void)
 {
-	MC2002_CLK_TRIS = 0;
+    MC2002_CLK_TRIS = 0;
     MC2002_DIO_TRIS = 0;
     MC2002_STB_TRIS = 0;
 	
-	MC2002_STB = 1;
+    MC2002_STB = 1;
 
     // COMMAND1
     // B7 B6 B5 B4 B3 B2 B1 B0

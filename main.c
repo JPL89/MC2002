@@ -1,20 +1,16 @@
-/*
-	@File 		
-	@Author		JOSIMAR PEREIRA LEITE
-	@country	Brazil
-	@Date		20/06/21
-	
-
-    Copyright (C) 2021  JOSIMAR PEREIRA LEITE
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
- 
-  
-*/
-
+// @File		 		
+// @Author		JOSIMAR PEREIRA LEITE
+// @country		Brazil
+// @Date		11/10/22
+//
+//
+// Copyright (C) 2021  JOSIMAR PEREIRA LEITE
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
 // CONFIG1H
 #pragma config OSC = HS         
 #pragma config FCMEN = OFF      
